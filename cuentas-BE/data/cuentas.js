@@ -65,4 +65,4 @@ const cuentas = [
   }
 ];
 
-module.exports = cuentas;
+export default cuentas;
